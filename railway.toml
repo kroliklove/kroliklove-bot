@@ -1,0 +1,5 @@
+[build]
+builder = "NIXPACKFILE"
+
+[deploy]
+startCommand = "python bot.py"
